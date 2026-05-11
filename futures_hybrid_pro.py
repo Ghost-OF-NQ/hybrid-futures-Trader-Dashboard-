@@ -1,4 +1,3 @@
-futures_hybrid_pro.py
 import streamlit as st
 import pandas as pd
 import yfinance as yf
